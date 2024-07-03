@@ -37,7 +37,6 @@ Celem projektu jest umożliwienie użytkownikom monitorowania i analizy warunkó
         id INT AUTO_INCREMENT PRIMARY KEY,
         temperature DECIMAL(6, 2) NOT NULL,
         timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-        timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     ```
 
