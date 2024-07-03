@@ -98,7 +98,7 @@ The goal of the project is to enable users to monitor and analyze atmospheric co
     ```sql
     CREATE TABLE measurements (
         id INT AUTO_INCREMENT PRIMARY KEY,
-        temperature FLOAT NOT NULL,
+        temperature DECIMAL(6, 2) NOT NULL,
         timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     ```
