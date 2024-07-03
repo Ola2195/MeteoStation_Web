@@ -58,7 +58,7 @@ Aplikacja webowa jest częścią większego projektu MeteoStation, który skład
 1. **Część Embedded**: Zbieranie i przesyłanie danych z czujników przy użyciu mikrokontrolera STM32F303RE i modułu WiFi ESP-01s. Więcej informacji znajduje się w [MeteoStation_STM32](https://github.com/Ola2195/MeteoStation_STM32), czyli repozytorium aplikacji Stacja Meteo z Wykorzystaniem Technologii IoT - Embedded.
 2. **Aplikacja Webowa**: Prezentacja i analiza zebranych danych w przeglądarce internetowej.
 
-![Zrzut ekranu](Screenshot 2024-07-03.png)
+![Zrzut ekranu](Screenshot_2024-07-03.png)
 
 ---
 
@@ -121,4 +121,4 @@ The web application is part of the larger MeteoStation project, which consists o
 1. **Embedded Component**: Collecting and transmitting data from sensors using the STM32F303RE microcontroller and the ESP-01s WiFi module. More information can be found in the [MeteoStation_STM32](https://github.com/Ola2195/MeteoStation_STM32) repository, which is the repository for the IoT Weather Station - Embedded.
 2. **Web Application**: Presenting and analyzing the collected data in a web browser.
 
-![Screenshot](Screenshot 2024-07-03.png)
+![Screenshot](Screenshot_2024-07-03.png)
