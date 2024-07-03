@@ -42,7 +42,7 @@ body {
     transition: transform 0.3s, background 0.5s;
     margin-bottom: 20px;
     width: 80%;
-    max-height: 90vh; /* Max height 90% of viewport height */
+    max-height: 50vh; /* Max height 50% of viewport height */
     overflow-y: auto; /* Vertical scrollbar for overflowing content */
 }
 
