@@ -51,7 +51,7 @@ Celem projektu jest umożliwienie użytkownikom monitorowania i analizy warunkó
 - Strona automatycznie odświeża się co 20 sekund, aby wyświetlić najnowsze dane.
 - Wykres temperatury jest aktualizowany na podstawie historycznych pomiarów.
 
-## Projekt Embedded
+## Projekt Embedded i Aplikacja Webowa
 
 Aplikacja webowa jest częścią większego projektu MeteoStation, który składa się z dwóch głównych komponentów:
 1. **Część Embedded**: Zbieranie i przesyłanie danych z czujników przy użyciu mikrokontrolera STM32F303RE i modułu WiFi ESP-01s. Więcej informacji znajduje się w [MeteoStation_STM32](https://github.com/Ola2195/MeteoStation_STM32), czyli repozytorium aplikacji Stacja Meteo z Wykorzystaniem Technologii IoT - Embedded.
